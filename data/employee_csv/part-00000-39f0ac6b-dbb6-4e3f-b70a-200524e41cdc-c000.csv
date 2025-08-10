@@ -1,0 +1,8 @@
+employee_id,employee_name,salary,age,department,bonus,state,load_date
+11,james,9000,34,D101,18000,newyork,2025-08-10
+12,michel,8900,32,D101,17800,newyork,2025-08-10
+13,robert,7900,29,D102,15800,California,2025-08-10
+14,scott,8000,36,D103,16000,California,2025-08-10
+15,jen,9500,38,D102,19000,newyork,2025-08-10
+16,jeff,9100,35,D103,18200,Russia,2025-08-10
+17,maria,7900,40,D101,15800,newyork,2025-08-10

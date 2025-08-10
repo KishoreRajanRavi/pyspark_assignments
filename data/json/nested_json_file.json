@@ -1,0 +1,21 @@
+{
+	"id": 1001,
+	"properties": {
+		"name": "ABC Pvt Ltd",
+		"storeSize": "Medium"
+	},
+	"employees": [
+		{
+			"empId": 1001,
+			"empName": "Divesh"
+		},
+		{
+			"empId": 1002,
+			"empName": "Rajesh"
+		},
+		{
+			"empId": 1003,
+			"empName": "David"
+		}
+	]
+}
